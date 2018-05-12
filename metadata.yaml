@@ -1,4 +1,8 @@
 _repo: Shock-and-Awe-Achieving-Rapid-Dominance_7259
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 7259-h/images/shockcover2.gif
 creator:
   authors:
   - agent_name: Wade, James P.
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '2397'
     url: http://www.gutenberg.org/2009/agents/2397
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7259#Shock-and-Awe-Achieving-Rapid-Dominance
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
